@@ -4,7 +4,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '1',
     name: 'Anupam Mittal',
-    image: 'https://media.licdn.com/dms/image/C5603AQGBhBvVP8JGDA/profile-displayphoto-shrink_400_400/0/1516255458095?e=1715817600&v=beta&t=Ij1M9r5Q1ZQ1QYqQJ1q1X8X1Z1Z1X8X1Z1Z1X8X1Z1Z1',
+    image: 'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe9jtIyyn36gKMpXT9k1PH7TSuj89nYyM4bipn7L2O3fpI5y_qrwgL1xUuIl7jCFrIaIEq0nnzMKOuizBF8RTRqA',
     gender: 'male',
     techStack: ['Matchmaking Tech', 'Digital Marketing', 'Mobile Apps'],
     interests: ['Technology', 'Entrepreneurship', 'Angel Investing'],
@@ -23,7 +23,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '2',
     name: 'N. R. Narayana Murthy',
-    image: 'https://media.licdn.com/dms/image/C5603AQHdF9JXaAW1GA/profile-displayphoto-shrink_400_400/0/1516943023720?e=1715817600&v=beta&t=XJ8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q8Q',
+    image: 'https://ceosofbharat.com/wp-content/uploads/2023/09/Screenshot_2022-03-19_at_3.18._1200x768.png.jpeg',
     gender: 'male',
     techStack: ['Software Development', 'Enterprise Solutions', 'IT Services'],
     interests: ['Education', 'Entrepreneurship', 'Social Impact'],
@@ -41,7 +41,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '3',
     name: 'Falguni Nayar',
-    image: 'https://media.licdn.com/dms/image/C4D03AQFPXsj6PzuqWQ/profile-displayphoto-shrink_400_400/0/1516254275079?e=1715817600&v=beta&t=Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9Y9',
+    image: 'https://www.ey.com/adobe/dynamicmedia/deliver/dm-aid--0228c8d6-6b20-49b6-850f-d9a936b538b7/falguni-nayar.jpg?preferwebp=true&quality=85',
     gender: 'female',
     techStack: ['E-commerce', 'Digital Marketing', 'Finance Tech'],
     interests: ['Beauty', 'Fashion', 'Women Entrepreneurship'],
@@ -59,7 +59,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '4',
     name: 'Bhavish Aggarwal',
-    image: 'https://media.licdn.com/dms/image/C4E03AQH7P5u9WfhBZQ/profile-displayphoto-shrink_400_400/0/1516255949875?e=1715817600&v=beta&t=W8W8W8W8W8W8W8W8W8W8W8W8W8W8W8W8W8W8W8W8',
+    image: 'https://images.hindustantimes.com/img/2024/07/07/1600x900/Bhavish_Aggarwal_1714975435056_1720372992570.jpeg',
     gender: 'male',
     techStack: ['Mobile Apps', 'AI', 'Electric Vehicles'],
     interests: ['Sustainable Transport', 'Clean Energy', 'Urban Mobility'],
@@ -77,7 +77,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '5',
     name: 'Debjani Ghosh',
-    image: 'https://media.licdn.com/dms/image/C5603AQEzb1U8vQUzYw/profile-displayphoto-shrink_400_400/0/1517467091584?e=1715817600&v=beta&t=V7V7V7V7V7V7V7V7V7V7V7V7V7V7V7V7V7V7V7V7',
+    image: 'https://m.economictimes.com/thumb/msid-89948377,width-1200,height-900,resizemode-4,imgsize-104788/debjani-ghosh-is-the-first-woman-at-the-helm-of-nasscom-in-the-three-decade-history-.jpg',
     gender: 'female',
     techStack: ['Digital Transformation', 'Tech Policy', 'AI'],
     interests: ['Digital India', 'Women in Tech', 'Innovation'],
@@ -95,7 +95,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '6',
     name: 'Vijay Shekhar Sharma',
-    image: 'https://media.licdn.com/dms/image/C4D03AQFg5RR8ftZWUQ/profile-displayphoto-shrink_400_400/0/1516255949875?e=1715817600&v=beta&t=U6U6U6U6U6U6U6U6U6U6U6U6U6U6U6U6U6U6U6U6',
+    image: 'https://pbs.twimg.com/profile_images/1693619055767269377/2hAM8FyE_400x400.jpg',
     gender: 'male',
     techStack: ['Fintech', 'Digital Payments', 'E-commerce'],
     interests: ['Financial Inclusion', 'Digital India', 'Startups'],
@@ -113,7 +113,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '7',
     name: 'Kiran Mazumdar-Shaw',
-    image: 'https://media.licdn.com/dms/image/C5603AQHw8XPQw9hK5Q/profile-displayphoto-shrink_400_400/0/1516255949875?e=1715817600&v=beta&t=T5T5T5T5T5T5T5T5T5T5T5T5T5T5T5T5T5T5T5T5',
+    image: 'https://www.biocon.com/wp-content/uploads/2020/05/Kiran-Mazumdar-Shaw.jpg',
     gender: 'female',
     techStack: ['Biotechnology', 'Pharmaceuticals', 'Research'],
     interests: ['Healthcare', 'Innovation', 'Women Leadership'],
@@ -131,7 +131,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '8',
     name: 'Sridhar Vembu',
-    image: 'https://media.licdn.com/dms/image/C5603AQFgQVq5Qm9FHw/profile-displayphoto-shrink_400_400/0/1516255949875?e=1715817600&v=beta&t=S4S4S4S4S4S4S4S4S4S4S4S4S4S4S4S4S4S4S4S4',
+    image: 'https://img-cdn.thepublive.com/fit-in/640x430/filters:format(webp)/startuppedia/media/media_files/2025/02/20/Ik0lhzgu1vl8kV5JEWH4.jpeg',
     gender: 'male',
     techStack: ['SaaS', 'Cloud Computing', 'Enterprise Software'],
     interests: ['Rural Development', 'Education', 'Entrepreneurship'],
@@ -149,7 +149,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '9',
     name: 'Roshni Nadar',
-    image: 'https://media.licdn.com/dms/image/C5603AQGjY1jJQG6Qww/profile-displayphoto-shrink_400_400/0/1516255949875?e=1715817600&v=beta&t=R3R3R3R3R3R3R3R3R3R3R3R3R3R3R3R3R3R3R3R3',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtYdPjLUyMbZeFTJHWIIinP1v4uYZRBOKYw&s',
     gender: 'female',
     techStack: ['IT Services', 'Digital Solutions', 'Tech Education'],
     interests: ['Education', 'Wildlife Conservation', 'Technology'],
@@ -167,7 +167,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '10',
     name: 'Nithin Kamath',
-    image: 'https://media.licdn.com/dms/image/C5603AQEqwYqzyZVB5w/profile-displayphoto-shrink_400_400/0/1516255949875?e=1715817600&v=beta&t=N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2N2',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZdjdK083LDFv5cS3Xz2hNEaYylbifeLOKEQ&s',
     gender: 'male',
     techStack: ['Fintech', 'Trading Platforms', 'Stock Market'],
     interests: ['Financial Literacy', 'Stock Trading', 'Technology'],
@@ -185,7 +185,7 @@ export const celebrities: Celebrity[] = [
   {
     id: '11',
     name: 'Divya Gokulnath',
-    image: 'https://media.licdn.com/dms/image/C5603AQFQxqHKqo8n3w/profile-displayphoto-shrink_400_400/0/1516255949875?e=1715817600&v=beta&t=D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Divya_Gokulnath_%28cropped%29.jpg/1200px-Divya_Gokulnath_%28cropped%29.jpg',
     gender: 'female',
     techStack: ['EdTech', 'Digital Learning', 'Content Development'],
     interests: ['Education', 'Teaching', 'Technology'],
