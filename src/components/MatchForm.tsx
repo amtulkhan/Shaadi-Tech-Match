@@ -45,7 +45,7 @@ export function MatchForm({ onSubmit }: MatchFormProps) {
     setIsSubmitting(true);
 
     try {
-      saveUserData(formData.name, formData.phone, formData.resumeFile);
+      await saveUserData(formData);
       onSubmit(formData);
     } catch (err) {
       console.error('Error submitting form:', err);
